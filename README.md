@@ -1,1 +1,1 @@
-[Tour-Places-Page](tour-places.gif)
+![Tour-Places-Page](tour-places.gif)
