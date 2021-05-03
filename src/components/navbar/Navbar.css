@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+.navbar {
+    background: linear-gradient(16deg, rgba(8,8,7,1) 28%, rgba(245,1,39,1) 52%, rgba(24,23,23,1) 76%);
+    justify-content: center;
+    display: flex;
+}
+.navbar a{
+    color: white;
+    padding: 24px 26px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Anatic SC', cursive;
+}
+.navbar a:hover{
+    background: linear-gradient(16deg, rgba(23,23,22,1) 18%, rgba(245,201,1,1) 41%, rgba(28,28,27,1) 51%, rgba(245,201,1,1) 62%, rgba(24,24,23,1) 88%);
+    color: rgb(135, 176, 223);
+    font-weight:bold;
+}
